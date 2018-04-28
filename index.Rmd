@@ -3,3 +3,5 @@ title: "Welcome to my website!"
 ---
 
 You're up and running!
+
+rmarkdown::render_site(encoding = "UTF-8")
